@@ -1,4 +1,6 @@
-magic_ball
+```
+ruby magic_ball.rb
+```
 
 The fun program predicts the future.
 
