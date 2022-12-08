@@ -1,11 +1,10 @@
-# prediction_ball
+# Magic Ball
+Программа эмулирует работу "Волшебного шара" - который выдает ответ (положительный, нейтральный или отрицательный) Помогает принять какое-либо решение (ответом на вопрос) подробнее - https://ru.wikipedia.org/wiki/Magic_8_ball
 
-The fun program predicts the future.
-
-The program randomly predicts the fulfillment of the event you have guessed.
-
-The program is written in Ruby.
-
-```
+# Как запустить?
+1. Скачать файл
+2. Придумать вопрос
+3. Запустить программу командой:
+4. ```
 ruby magic_ball.rb
 ```
