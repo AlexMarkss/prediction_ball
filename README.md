@@ -1,4 +1,4 @@
-# prediction_ball.rb
+# prediction_ball
 
 The fun program predicts the future.
 
